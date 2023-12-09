@@ -1,0 +1,52 @@
+* {
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+    background-color: #13152A;
+}
+
+#plus {
+    width: 60px;
+    height: 60px;
+    color:black;
+    font-size: 30px;
+    background-color: #0184F8;
+}
+
+#minus {
+    width: 60px;
+    height: 60px;
+    color:black;
+    font-size: 30px;
+    background-color: #0184F8;
+}
+
+#reset {
+    width: 60px;
+    height: 60px;
+    color:black;
+    background-color: blue;
+}
+
+#random {
+    width: 90px;
+    height: 60px;
+    color:black;
+    background-color: blue;
+}
+
+#counter {
+    width: 60px;
+    height: 60px;
+    border: 1px solid black;
+    background-color: blue;
+    text-align: center;
+    padding: 10px;
+}
+
+.all {
+    width: 1000px;
+    display: flex;
+    justify-content: center;
+    margin: 300px auto;
+}
